@@ -1,22 +1,36 @@
 # MAMAG-AI-Hackathon-2026
 ### HACKATHON
 
-Monitoring And Management of Academic Goals (MAMAG) is an AI-based system that automates student clearance by allowing
-teachers to update clearance status digitally while students monitor progress
-in real time.
+Monitoring And Management of Academic Goals (MAMAG) is an AI-based system that automates
+student clearance by allowing teachers to update clearance status digitally while
+students monitor progress in real time.
 
-Features
+### Developers (from Camp Mamag)
+B2030 - Avilla, Saul Gabe Padilla
+B2029 - Gordula, Zac Harvey
+B2029 - Lim, Zoe Javison
+B2027 - Villegas, Julienne Raine Dimaano
+
+### Features
 - Digital clearance monitoring
 - Teacher and student dashboards
 - Real-time updates
 - AI-assisted delay prediction
 
-Programming Languages Used
+### Programming Languages Used
 - HTML
 - CSS
 - Javascript
 
-How to Run
+### How to Run
 1. Download the repository folder to edit code, add files, and run project
 2. Install requirements
 3. Run the application
+
+### Prototype Login Details
+- TEACHER LOGIN Details
+Email: gurongbayan@cbzrc.pshs.edu.ph
+Password: sixseven
+- STUDENT LOGIN Details
+Email: iskolarngbayan@cbzrc.pshs.edu.ph
+Password: sixseven
